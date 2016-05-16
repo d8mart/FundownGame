@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FundownGame</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pantalla2">Pantalla2</string>
+    <string name="title_activity_pantalla3">Pantalla3</string>
+    <string name="title_activity_pantalla4">Pantalla4</string>
+</resources>
